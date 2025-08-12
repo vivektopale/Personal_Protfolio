@@ -823,7 +823,7 @@ input:focus,textarea:focus{
 }
 
 
-@media(max-width: 350px ) {
+@media(max-width: 480px ) {
   body {
     width: 100vw;
     position: relative;
@@ -1142,4 +1142,5 @@ input{
     margin-top:20px ;
 }
 }
+
 
